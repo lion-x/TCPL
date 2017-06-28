@@ -17,3 +17,5 @@ add_executable(2-9 ch02/2-9.c)
 add_executable(2-10 ch02/2-10.c)
 
 add_executable(3-2 ch03/3-2.c)
+
+add_executable(3-3 ch03/3-3.c)
